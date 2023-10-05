@@ -1,5 +1,5 @@
 
-## Hello! I am Wellington Barbosa 👋
+## Hello! I am Nicolas Marques! 👋
 
 <div style="display: inline_block"><br>
      <img
@@ -43,18 +43,6 @@
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-      >
-      <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      >
-      <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       >
       <img 
         align="right" 
