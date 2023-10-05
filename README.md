@@ -50,6 +50,18 @@
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
       >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      >
+       <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      >
       <img 
         align="right" 
         src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"
