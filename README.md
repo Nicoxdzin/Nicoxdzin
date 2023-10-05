@@ -54,7 +54,7 @@
 
 <div> 
     <a 
-      href=https://www.instagram.com/nicolaasz/"
+      href="https://www.instagram.com/nicolaasz/"
       target="_blank"
     >
       <img
