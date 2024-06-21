@@ -2,12 +2,6 @@
 ## Hello! I am Nicolas Marques! 👋
 
 <div style="display: inline_block"><br>
-     <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"
-      >
       <img
         align="center"
         height="30"
@@ -19,12 +13,6 @@
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      >
-      <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
       >
       <img
         align="center"
