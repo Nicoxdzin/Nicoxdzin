@@ -1,6 +1,4 @@
 
-## Welcome to my GitHub profile!! I am Nicolas Marques.
-
 <div style="display: inline_block"><br>
       <img
         align="center"
