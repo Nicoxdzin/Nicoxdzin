@@ -24,13 +24,7 @@
         align="center"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      >
-      <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
       >
      <img
         align="center"
@@ -43,12 +37,6 @@
         height="30"
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      >
-       <img
-        align="center"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       >
       <img 
         align="right" 
