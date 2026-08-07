@@ -33,6 +33,8 @@ Atualmente focado em **desenvolvimento Web, APIs e arquitetura de sistemas**.
 
 <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
+<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
 </div>
 
 
