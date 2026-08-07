@@ -10,9 +10,8 @@ Atualmente focado em **desenvolvimento Web, APIs e arquitetura de sistemas**.
 
 | | |
 |---|---|
-| 🎓 **Formação** | Análise e Desenvolvimento de Sistemas — em andamento |
-| 💻 **Foco** | Desenvolvimento Full Stack |
-| 🌱 **Estudando** | Laravel e PHP |
+| 🎓 **Formação** | Técnico em Desenvolvimento de sistemas concluído e Análise e Desenvolvimento de Sistemas em andamento |
+| 💻 **Foco** | Desenvolvimento Full Stack | Banco de dados | IA
 | 🔎 **Interesses** | APIs, Arquitetura de Software, Banco de Dados e IA |
 | 🚀 **Objetivo** | Evoluir como desenvolvedor e construir soluções reais |
 
