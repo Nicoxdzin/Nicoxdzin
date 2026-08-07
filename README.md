@@ -1,12 +1,10 @@
 # Nicolas Marques
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack
+###  Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas 
 
 Estudante de **ADS**, apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente focado em **desenvolvimento Web, APIs e arquitetura de sistemas**.
-
----
 
 ## Sobre mim
 
@@ -18,7 +16,6 @@ Atualmente focado em **desenvolvimento Web, APIs e arquitetura de sistemas**.
 | 🔎 **Interesses** | APIs, Arquitetura de Software, Banco de Dados e IA |
 | 🚀 **Objetivo** | Evoluir como desenvolvedor e construir soluções reais |
 
----
 
 ## Tecnologias
 
@@ -38,7 +35,6 @@ Atualmente focado em **desenvolvimento Web, APIs e arquitetura de sistemas**.
 
 </div>
 
----
 
 ## Áreas de interesse
 
